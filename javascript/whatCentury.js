@@ -24,4 +24,8 @@ function returnLastDigit(num) {
     return lastDigit
 }
 
-console.log(whatCentury(2023))
+const years = [2023, 2019, 1180, 1984, 1899, 536]
+
+for (let i = 0; i < years.length; i++){
+    console.log(years[i] + " ---> " + whatCentury(years[i]))
+}
