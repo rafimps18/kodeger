@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    background-color: darkslateblue;
+    font-family: Lato, Helvetiva, sans-serif;
+}
+h1{ 
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
